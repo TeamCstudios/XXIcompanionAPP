@@ -2,4 +2,4 @@
 
 | Downloads | Direct | Mirror (recommended)|
 | --------- | ------|--------|
-|version 5 pre 1| [Direct](https://github.com/TeamCstudios/XXIcompanionAPP/raw/master/XXIcompanionv5p1.apk)|None|
+|version 5 pre 1| [Direct](https://github.com/TeamCstudios/XXIcompanionAPP/raw/master/XXIcompanion%20v5p1.apk)|None|
